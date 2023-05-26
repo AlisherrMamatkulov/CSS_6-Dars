@@ -1,0 +1,16 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    width: 100%;
+    display: block;
+}
+.col{
+    width: 500px;
+    height: 300px;
+    float: left;
+    background-color: black;
+    box-shadow: rgb(255,0,0);
+
+}

@@ -1,0 +1,26 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    width: 100%;
+    display: block;
+}
+.col{
+    width: 500px;
+    display: block;
+    float: left;
+    background:linear-gradient(90deg,blue,green,yellow,red);
+    color: slategray;
+}
+.sana{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.text-sana{
+    padding: 1.5rem 0;
+    text-align: center;
+    font-size: 50px;
+}

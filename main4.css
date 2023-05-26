@@ -1,0 +1,16 @@
+
+.wrap{
+    width: 1200px;
+    background: radial-gradient(blueviolet,blue);
+}
+.row{
+    width: 100%;
+    display: block;
+}
+.col{
+    width:400px;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: white;
+}
